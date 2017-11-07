@@ -1,5 +1,22 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 30px;
+}
+
 #time {
   font-family: helvetica;
   font-weight: bold;
-  font-size: 48px;
+  font-size: 180px;
+  padding: 40px;
+  text-align: center;
+  margin-top: 30px;
+  background-color: white;
 }

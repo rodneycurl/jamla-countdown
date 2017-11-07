@@ -31,7 +31,6 @@ function startTime() {
   }, 5);
 
 
-
 }
 
 document.addEventListener('DOMContentLoaded', function() {
