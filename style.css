@@ -1,6 +1,6 @@
-* {
+/** {
   background-color: black;
-}
+}*/
 
 h1 {
   font-family: helvetica;
@@ -17,6 +17,17 @@ h1 {
   font-size: 180px;
   padding: 40px;
   text-align: center;
-  margin-top: 30px;
-  background-color: white;
+  margin-top: 10px;
+  color: white;
+  /*background-color: rgba(255, 255, 255, 0.1);*/
+}
+
+html {
+  /*background:  url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed;*/
+  background:  url(http://24.media.tumblr.com/d490517e9628431b7495671081e31673/tumblr_myxbid5oHY1rr6aa6o1_500.gif) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+    height: 100%;
 }
